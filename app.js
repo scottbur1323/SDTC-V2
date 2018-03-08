@@ -26,4 +26,5 @@ app.get("/:id", function (req, res) {
   } else res.status(404).json({error: {"message": "No record found!"}})
 })
 
+console.log("Running on port: " + port)
 app.listen(port)
