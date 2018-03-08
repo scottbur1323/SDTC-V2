@@ -1,0 +1,28 @@
+{
+  "name": "myexpressappv2",
+  "version": "1.0.0",
+  "description": "2nd drill of school exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottbur1323/SDTC-V2.git"
+  },
+  "keywords": [
+    "heroku",
+    "node.js"
+  ],
+  "author": "Chance Scott-Burke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottbur1323/SDTC-V2/issues"
+  },
+  "homepage": "https://github.com/scottbur1323/SDTC-V2#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "nodemon": "^1.17.1"
+  }
+}

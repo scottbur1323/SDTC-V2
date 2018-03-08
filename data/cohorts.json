@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "cohort-name": "17-01-WD-DP",
+    "cohort-code": "g100",
+    "number-students": "28"
+},{
+    "id": 2,
+    "cohort-name": "17-01-DS-GT",
+    "cohort-code": "g105",
+    "number-students": "24"
+},{
+    "id": 3,
+    "cohort-name": "17-02-WD-PX",
+    "cohort-code": "g109",
+    "number-students": "30"
+},{
+    "id": 4,
+    "cohort-name": "17-03-WD-BD",
+    "cohort-code": "g110",
+    "number-students": "29"
+}]
