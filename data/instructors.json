@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "full-name": "Kyle Coberly",
+    "title": "Faculty Director",
+    "number of dogs": "0"
+},{
+    "id": 2,
+    "cohort-name": "Danny Fritz",
+    "cohort-code": "Lead Instructor",
+    "number-students": "0"
+},{
+    "id": 3,
+    "cohort-name": "CJ Reynolds",
+    "cohort-code": "Lead Instructor",
+    "number-students": "0"
+},{
+    "id": 4,
+    "cohort-name": "Brooks Patton",
+    "cohort-code": "Lead Instructor",
+    "number-students": "0"
+}{
+    "id": 5,
+    "full-name": "Roberto Ortega",
+    "title": "Lead Instructor",
+    "number of dogs": "1"
+},{
+    "id": 6,
+    "full-name": "Chad Drummond",
+    "title": "Instructor",
+    "number of dogs": "0"
+},{
+    "id": 7,
+    "full-name": "Kim Schlesinger",
+    "title": "Instructor",
+    "number of dogs": "0"
+},{
+    "id": 8,
+    "full-name": "Peter Ostiguy",
+    "title": "Instructor",
+    "number of dogs": "1"
+},{
+    "id": 9,
+    "full-name": "Cass Torske",
+    "title": "Resident",
+    "number of dogs": "1"
+},{
+    "id": 10,
+    "full-name": "Matt Winzer",
+    "title": "Resident",
+    "number of dogs": "2"
+},{
+    "id": 11,
+    "full-name": "Aaron Goodman",
+    "title": "Resident",
+    "number of dogs": "0"
+},{
+    "id": 12,
+    "full-name": "Michelle Bergquist",
+    "title": "Resident",
+    "number of dogs": "1"
+}]
