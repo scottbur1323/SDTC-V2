@@ -7,17 +7,17 @@
     "id": 2,
     "cohortName": "Danny Fritz",
     "cohortCode": "Lead Instructor",
-    "numberStudents": "0"
+    "numberDogs": "0"
 },{
     "id": 3,
     "cohortName": "CJ Reynolds",
     "cohortCode": "Lead Instructor",
-    "numberStudents": "0"
+    "numberDogs": "0"
 },{
     "id": 4,
     "cohortName": "Brooks Patton",
     "cohortCode": "Lead Instructor",
-    "numberStudents": "0"
+    "numberOfDogs": "0"
 },{
     "id": 5,
     "fullName": "Roberto Ortega",
