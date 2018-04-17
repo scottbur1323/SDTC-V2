@@ -1,61 +1,61 @@
 [{
     "id": 1,
-    "full-name": "Kyle Coberly",
+    "fullName": "Kyle Coberly",
     "title": "Faculty Director",
-    "number of dogs": "0"
+    "numberOfDogs": "0"
 },{
     "id": 2,
-    "cohort-name": "Danny Fritz",
-    "cohort-code": "Lead Instructor",
-    "number-students": "0"
+    "cohortName": "Danny Fritz",
+    "cohortCode": "Lead Instructor",
+    "numberStudents": "0"
 },{
     "id": 3,
-    "cohort-name": "CJ Reynolds",
-    "cohort-code": "Lead Instructor",
-    "number-students": "0"
+    "cohortName": "CJ Reynolds",
+    "cohortCode": "Lead Instructor",
+    "numberStudents": "0"
 },{
     "id": 4,
-    "cohort-name": "Brooks Patton",
-    "cohort-code": "Lead Instructor",
-    "number-students": "0"
+    "cohortName": "Brooks Patton",
+    "cohortCode": "Lead Instructor",
+    "numberStudents": "0"
 },{
     "id": 5,
-    "full-name": "Roberto Ortega",
+    "fullName": "Roberto Ortega",
     "title": "Lead Instructor",
-    "number of dogs": "1"
+    "numberOfDogs": "1"
 },{
     "id": 6,
-    "full-name": "Chad Drummond",
+    "fullName": "Chad Drummond",
     "title": "Instructor",
-    "number of dogs": "0"
+    "numberOfDogs": "0"
 },{
     "id": 7,
-    "full-name": "Kim Schlesinger",
+    "fullName": "Kim Schlesinger",
     "title": "Instructor",
-    "number of dogs": "0"
+    "numberOfDogs": "0"
 },{
     "id": 8,
-    "full-name": "Peter Ostiguy",
+    "fullName": "Peter Ostiguy",
     "title": "Instructor",
-    "number of dogs": "1"
+    "numberOfDogs": "1"
 },{
     "id": 9,
-    "full-name": "Cass Torske",
+    "fullName": "Cass Torske",
     "title": "Resident",
-    "number of dogs": "1"
+    "numberOfDogs": "1"
 },{
     "id": 10,
-    "full-name": "Matt Winzer",
+    "fullName": "Matt Winzer",
     "title": "Resident",
-    "number of dogs": "2"
+    "numberOfDogs": "2"
 },{
     "id": 11,
-    "full-name": "Aaron Goodman",
+    "fullName": "Aaron Goodman",
     "title": "Resident",
-    "number of dogs": "0"
+    "numberOfDogs": "0"
 },{
     "id": 12,
-    "full-name": "Michelle Bergquist",
+    "fullName": "Michelle Bergquist",
     "title": "Resident",
-    "number of dogs": "1"
+    "numberOfDogs": "1"
 }]

@@ -6,7 +6,6 @@ const port = process.env.PORT || 3000
 app.use(cors())
 
 function findById(data, id) {
-  var error = "falsenode "
   for (i=0;i<data.length;i++) {
     if (id == data[i].id) {
       return data[i]
